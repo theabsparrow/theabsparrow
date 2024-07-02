@@ -1,4 +1,4 @@
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
+
 ### Hi there 👋, my name is Abul Bashar
 #### I am a passionate front end web developer from Bangladesh
 ![I am a passionate front end web developer from Bangladesh]
