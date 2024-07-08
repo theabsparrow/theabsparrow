@@ -12,7 +12,8 @@ I am always eager to learn new technologies and stay updated with industry trend
 -  # 🌱 I’m currently learning: <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/theabsparrow/theabsparrow/blob/main/1_W0fC854FAMD1EP60bnl2lg-modified.png" alt="nextjs" width="35" height="35"/> </a>
 
 
- # Social : [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/theabsparrow)  
+ # Social
+ [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/linkedin.png' alt='linkedin' height='50'>](www.linkedin.com/in/theabsparrow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theabsparrow)](https://github.com/anuraghazra/github-readme-stats)
 
