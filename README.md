@@ -13,7 +13,7 @@ I am always eager to learn new technologies and stay updated with industry trend
 
 
  # Social
- [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/linkedin.png' alt='linkedin' height='50'>](www.linkedin.com/in/theabsparrow)
+ [<img src='[https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png](https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png)' alt='facebook' height='40'>](https://www.facebook.com/theabsparrow)  [<img src='[https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png](https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png)' alt='twitter' height='40'>](https://twitter.com/theabsparrow)  [<img src='[https://github.com/theabsparrow/theabsparrow/blob/main/linkedin.png](https://github.com/theabsparrow/theabsparrow/blob/main/linkedin.png)' alt='linkedin' height='40'>](www.linkedin.com/in/theabsparrow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theabsparrow)](https://github.com/anuraghazra/github-readme-stats)
 
