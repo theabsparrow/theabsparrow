@@ -16,7 +16,7 @@ I am always eager to learn new technologies and stay updated with industry trend
  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/theabsparrow)  [<img src='https://github.com/theabsparrow/theabsparrow/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/theabsparrow/)
 
 # My Portfolio: 
-[<img src='https://github.com/theabsparrow/theabsparrow/blob/main/theabsparrow.webp' alt='portfolio' height='60' width='60'>](https://theabsparrow.vercel.app/)
+[<img src='https://github.com/theabsparrow/theabsparrow/blob/main/theabsparrow.webp' alt='portfolio' height='100' width='100'>](https://theabsparrow.vercel.app/)
 
 # Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theabsparrow)](https://github.com/anuraghazra/github-readme-stats)
