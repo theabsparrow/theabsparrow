@@ -1,4 +1,4 @@
-![logo](https://github.com/theabsparrow/theabsparrow/blob/main/Front-End%20Web%20Developer.png)
+![logo](https://github.com/theabsparrow/theabsparrow/blob/main/github%20banner.png)
 ### Hi there 👋, my name is Abul Bashar
 #### I am a passionate front end web developer from Bangladesh
 ![I am a passionate front end web developer from Bangladesh]
